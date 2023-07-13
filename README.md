@@ -5,7 +5,10 @@ This is a repository of many useful free resource such as books,  tutorials, che
 ---
 ## Table Contents
 - [Topics Covered](#topics-covered)
-- [Contribution](#contribution)
+- [Contributions](#contributions)
 ## Topics Covered
 - [Front End Development](https://github.com/Illucious/CS-Resources/tree/main/Frontend%20Web%20Development)
 - [Back End Development](https://github.com/Illucious/CS-Resources/tree/main/Backend%20Web%20Development)
+
+## Contributions
+You are always welcome to contribute to this project, Make sure the you read the [contribution](contribution.md) before contributing.
