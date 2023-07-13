@@ -3,7 +3,9 @@ This is a repository of many useful free resource such as books,  tutorials, che
 
 > **Note:** This repo is currently in development stages.
 ---
-# Table Contents
-- [List Of Recousces](list-of-resources)
-- [Contribution](contribution)
-## List Of Resources
+## Table Contents
+- [Topics Covered](#topics-covered)
+- [Contribution](#contribution)
+## Topics Covered
+- [Front End Development](https://github.com/Illucious/CS-Resources/tree/main/Frontend%20Web%20Development)
+- [Back End Development](https://github.com/Illucious/CS-Resources/tree/main/Backend%20Web%20Development)
